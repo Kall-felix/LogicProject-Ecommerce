@@ -1,4 +1,4 @@
-# Desafio de Projeto da DIO - **Construindo seu Primeiro Projeto Lógico de Banco de Dados (ECOMMERCE)**
+# Desafio de Projeto da DIO - **Construindo seu Primeiro Projeto Lógico de Banco de Dados -> E-COMMERCE**
 #### Projeto proposto no Bootcamp 
 
 ## Descrição do Desafio
