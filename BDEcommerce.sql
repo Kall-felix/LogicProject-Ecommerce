@@ -7,7 +7,7 @@ insert into clients(Fname, Minit, Lname, CPF, Address)
 					values ('Amanda','A','Silva', 08274973003, 'Rua Praça XV de Novembro, Centro - RS'),
 							 ('Bruno','B','Rutz', 66367096000,'Av Romualdo Barros, Carvoeira - SC'),
 							 ('Júlio','J','Romero', 28625052002,'Avenida Alemeda Caetano, Centro - MG'),
-							 ('Larissa','L','França', 40801601002,'Rua Princesa Isabel 1499, Centro - PR'),
+							 ('Larissa','L','Leone', 40801601002,'Rua Princesa Isabel 1499, Centro - PR'),
 							 ('Lupita','L','Ribeiro', 49179515002,'Quadra SHCES Quadra 1307 Bloco E, Cruzeiro Novo - DF'),
 							 ('Talita','T','Cruz', 93634806079,'Rua José Zeferino de Paula, s/n, Centro - pb');
                              
