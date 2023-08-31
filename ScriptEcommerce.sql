@@ -24,7 +24,7 @@ CREATE TABLE product(
 					idProduct INT AUTO_INCREMENT,
 					Pname VARCHAR(15) NOT NULL,
 					Classification_kids BOOL DEFAULT FALSE,
-					Category ENUM('Eletrônico', 'Vestimenta', 'Brinquedos', 'Esportes', 'Alimentos','Veculos') NOT NULL,
+					Category ENUM('Eletrônico', 'Vestimenta', 'Brinquedos', 'Esportes', 'Alimentos','Veículos') NOT NULL,
 					Feedback FLOAT DEFAULT 0,
 					Size VARCHAR(10),
 					PRIMARY KEY(idProduct)
